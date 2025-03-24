@@ -1,2 +1,2 @@
-# SimpleExcelDashboard
-Using Excel to create a simple dashboard for analyzing Call Center data
+# Call Center data analysis
+I used excel to create a simpe dashboard for analyzing Call Center database.
