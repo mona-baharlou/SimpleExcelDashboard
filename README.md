@@ -15,4 +15,4 @@ The bar graph shows the volume of calls categorized by topics.
 - Payment Related: ~187 calls
 - Technical Support: ~107 calls
 
-![](../simpleexceldashboard/Call-Center_img.JPG)
+![](https://github.com/mona-baharlou/SimpleExcelDashboard/blob/main/Call-Center_img.jpg)
