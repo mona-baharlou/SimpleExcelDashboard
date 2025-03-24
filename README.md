@@ -14,3 +14,5 @@ The bar graph shows the volume of calls categorized by topics.
 - Contract Related: ~189 calls
 - Payment Related: ~187 calls
 - Technical Support: ~107 calls
+
+![](../simpleexceldashboard/Call-Center_img.JPG)
